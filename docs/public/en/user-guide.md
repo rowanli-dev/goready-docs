@@ -1,10 +1,33 @@
-# GoReady Support
+# User Guide
+
+## Introduction
+
+## Getting Started
+
+1. Create an emergency bag.
+2. Add preparedness items.
+3. Set expiration dates.
+4. Review your supplies regularly.
+
+## FAQ
+
+1. Does GoReady require an internet connection?
+No.
+Most features work entirely offline.
+
+2. Is my data uploaded to a server?
+No.
+Your data remains on your device.
+
+## Precautions
+
+## Support
 
 Thank you for using GoReady.
 
 If you need help, want to report a problem, or would like to share feedback, please use one of the forms below.
 
-## Report a Problem
+* Report a Problem
 
 Use this form if you experienced a bug, crash, incorrect behavior, or notification issue.
 
@@ -12,13 +35,13 @@ Use this form if you experienced a bug, crash, incorrect behavior, or notificati
 
 Please do not include sensitive personal or medical information in the report.
 
-## Suggestions and Feedback
+* Suggestions and Feedback
 
 Use this form if you have ideas for improving GoReady.
 
 [Send Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdSw36QxL6l5z0613HvmM1CqJsf-b8CznkhhplS3Agi4Nne2A/viewform?usp=header)
 
-## Privacy Reminder
+* Privacy Reminder
 
 GoReady may store emergency card information locally on your device, such as emergency contacts, blood type, allergy information, and medication notes.
 
@@ -26,6 +49,6 @@ Please do not include sensitive emergency card details in support requests or fe
 
 For more information, please read our Privacy Policy.
 
-## Contact
+* Contact
 
 Email: rowan.li.tw@gmail.com

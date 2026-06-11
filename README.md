@@ -1,12 +1,17 @@
-# GoReady Docs
-Public documentation and technical portfolio for the GoReady app.
+# GoReady Documentation
+Documentation site for GoReady.
+
+## Website
+https://rowanli-dev.github.io/goready-docs/
 
 ## Public Documents
+- User Guide
 - Privacy Policy
-- Support
+- Disclaimer
 
 ## Technical Portfolio
-- Architecture Overview
+- Project Overview
+- Architecture
 - App Lifecycle
 - Error Handling
 - Observability

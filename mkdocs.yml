@@ -1,0 +1,28 @@
+site_name: GoReady
+site_description: GoReady documentation
+site_url: https://rowanli-dev.github.io/goready-docs/
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+
+  - Public:
+      - 中文:
+          - 使用指南: public/zh/user-guide.md
+          - 隱私權政策: public/zh/privacy-policy.md
+          - 免責聲明: public/zh/disclaimer.md
+      - English:
+          - User Guide: public/en/user-guide.md
+          - Privacy Policy: public/en/privacy-policy.md
+          - Disclaimer: public/en/disclaimer.md
+
+  - Portfolio:
+      - Project Overview: portfolio/project-overview.md
+      - Architecture: portfolio/architecture.md
+      - Database Design: portfolio/database-design.md
+      - Notification Design: portfolio/notification-design.md
+      - Error Handling: portfolio/error-handling.md
+      - i18n Strategy: portfolio/i18n-design.md
