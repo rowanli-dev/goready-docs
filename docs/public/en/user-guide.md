@@ -1,25 +1,34 @@
 # User Guide
 
-## Introduction
+## What Is GoReady?
+
+GoReady helps you organize disaster preparedness information, manage emergency bags and supplies, receive expiration reminders, and keep important emergency reference information available on your device.
 
 ## Getting Started
 
 1. Create an emergency bag.
 2. Add preparedness items.
-3. Set expiration dates.
-4. Review your supplies regularly.
+3. Set expiration and warranty dates where applicable.
+4. Create an emergency contact card if needed.
+5. Review and update your supplies regularly.
 
-## FAQ
+## Frequently Asked Questions
 
-1. Does GoReady require an internet connection?
-No.
-Most features work entirely offline.
+### Does GoReady require an internet connection?
 
-2. Is my data uploaded to a server?
-No.
-Your data remains on your device.
+Most core features work offline, including managing emergency bags, supplies, and emergency contact cards.
 
-## Precautions
+Some features may require an internet connection or telecommunications service, including opening online support forms, sending text messages, and operating-system cloud backup services.
+
+### Is my data uploaded to a server?
+
+GoReady does not upload your emergency preparedness database or associated images to servers operated by the GoReady developer.
+
+Depending on your device settings, your data may be backed up or restored through iCloud Backup, Android Auto Backup, or operating-system device transfer features.
+
+The App may also send limited and filtered error diagnostic information to Sentry.
+
+When you choose to send a safety check-in message or submit a support form, the information you choose to provide will be processed by the applicable messaging, telecommunications, or form service. Please refer to the Privacy Policy for details.
 
 ## Support
 
@@ -33,7 +42,7 @@ Use this form if you experienced a bug, crash, incorrect behavior, or notificati
 
 [Report a Problem](https://docs.google.com/forms/d/e/1FAIpQLSfuE1b0tvVxBnVmRQkZ_-Uu2kvJgFE3NuwQVjEdPYFBogBcHg/viewform?usp=header)
 
-Please do not include sensitive personal or medical information in the report.
+Please do not include sensitive personal in the report.
 
 * Suggestions and Feedback
 
@@ -43,12 +52,13 @@ Use this form if you have ideas for improving GoReady.
 
 * Privacy Reminder
 
-GoReady may store emergency card information locally on your device, such as emergency contacts, blood type, allergy information, and medication notes.
+GoReady may store emergency contact card information locally on your device, such as the card holder’s name and phone number, emergency meeting points, emergency contacts’ names, relationships and phone numbers, and notes.
 
-Please do not include sensitive emergency card details in support requests or feedback forms.
+Please do not include sensitive information from your emergency contact card in support requests or feedback forms.
 
-For more information, please read our Privacy Policy.
+For more information, please read our [Privacy Policy](privacy-policy.md).
 
 * Contact
 
+GoReady Support
 Email: rowan.li.tw@gmail.com
